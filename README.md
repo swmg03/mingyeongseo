@@ -1,3 +1,4 @@
 # mingyeongseo
 
-#@현재 프론트앤드, 백앤드 준비중입니다. 
+HTML, CSS, 자바스크립트
+XAMPP 
