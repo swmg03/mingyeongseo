@@ -1,4 +1,4 @@
-<h1 align="center"> mingyeongseo</h1>
+<h1 align="center"> swmg03</h1>
 
 <h3>시작</h3>
 
